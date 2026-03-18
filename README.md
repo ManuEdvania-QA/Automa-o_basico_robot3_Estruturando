@@ -1,4 +1,4 @@
-# Primeiro Teste de Automação com Robot Framework e Python
+# Terceiro Teste de Automação com Robot Framework e Python
 Automação desenvolvida para um projeto de automação de testes de software, que demonstra como usar Robot Framework + Selenium para validar funcionalidades de um site de viagens.
 
 Ferramentas Utilizadas:
